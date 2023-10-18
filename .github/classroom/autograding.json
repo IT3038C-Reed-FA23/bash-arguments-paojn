@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test Script",
+      "setup": "",
+      "run": "./test_my_script.sh",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
